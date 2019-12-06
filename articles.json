@@ -11,7 +11,9 @@
       "file": "es6-iterators-generators.md"	    
     },
     "3": {
-      "name": "JavaScript Part 2"
+      "title": "ES6 Modules",
+      "slug": "es-modules",
+      "file": "es6-modules.md"	    
     },
     "4": {
       "name": "JavaScript Part 3"
