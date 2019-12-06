@@ -2,11 +2,13 @@
   "articles": {
     "1": {
 	"title": "Dynamic React Form with Formik",
-	"slug": "dynamic-react-form-with-formik"    
+	"slug": "dynamic-react-form-with-formik",
+	"file": "dynamic-form-formik.md"    
     },
     "2": {
       "title": "ES6 Iterators and Generators",
-      "slug": "es6-itetators and generators"	    
+      "slug": "es6-itetators and generators",
+      "file": "es6-iterators-generators.md"	    
     },
     "3": {
       "name": "JavaScript Part 2"
