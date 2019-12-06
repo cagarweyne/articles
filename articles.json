@@ -1,0 +1,26 @@
+{
+  "articles": {
+    "1": {
+	"title": "Dynamic React Form with Formik",
+	"slug": "dynamic-react-form-with-formik"    
+    },
+    "2": {
+      "name": "JavaScript Part 1"
+    },
+    "3": {
+      "name": "JavaScript Part 2"
+    },
+    "4": {
+      "name": "JavaScript Part 3"
+    },
+    "5": {
+      "name": "JavaScript Part 4"
+    },
+    "6": {
+      "name": "JavaScript Part 5"
+    },
+    "7": {
+      "name": "JavaScript Part 6"
+    }	  
+  }
+}
