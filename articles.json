@@ -5,7 +5,8 @@
 	"slug": "dynamic-react-form-with-formik"    
     },
     "2": {
-      "name": "JavaScript Part 1"
+      "title": "ES6 Iterators and Generators",
+      "slug": "es6-itetators and generators"	    
     },
     "3": {
       "name": "JavaScript Part 2"
