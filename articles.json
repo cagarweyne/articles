@@ -16,7 +16,9 @@
       "file": "es6-modules.md"	    
     },
     "4": {
-      "name": "JavaScript Part 3"
+      "title": "ES6 Promises",
+      "slug": "es6-promises",
+      "file": "promises.md"	    
     },
     "5": {
       "name": "JavaScript Part 4"
